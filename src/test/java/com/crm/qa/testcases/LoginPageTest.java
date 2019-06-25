@@ -30,6 +30,6 @@ public class LoginPageTest extends TestBase {
 	
 	@Test(priority=2)
 	public void crmLogoImageTest() {
-		boolean flag = loginPage.validateLoginPageTitle();
+		//boolean flag = loginPage.validateLoginPageTitle();
 	}
 }
